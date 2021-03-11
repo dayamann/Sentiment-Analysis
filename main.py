@@ -1,5 +1,4 @@
 # Daya Mann
-# CS1026 Assignment 3
 # Sentiment Analysis
 
 # import main funtion
