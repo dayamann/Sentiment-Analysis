@@ -11,4 +11,7 @@ This repository contains a Python module, called sentiment_analysis.py and a mai
 - The happiness score for the tweet is simply the sum of the “sentiment values” for keywords found in the tweet divided by the number of keywords found in the tweet. 
 - If there are none of the given keywords in a tweet, it is just ignored, i.e., you do NOT count it.
 
-A file called tweets.txt contains the tweets and a file called keywords.txt contains keywords and scores for determining the “sentiment” of an individual tweet.  These files are described in more detail below.
+Another file called driver.py shows an example of the program being used.
+
+# Text Files
+A file called tweets.txt contains the tweets and a file called keywords.txt contains keywords and scores for determining the “sentiment” of an individual tweet. More examples of tweet files (tweets1.txt, tweets2.txt) and keyword files (keywords1.txt, keywords2.txt) are provided also. 
